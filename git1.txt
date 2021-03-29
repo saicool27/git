@@ -1,1 +1,3 @@
 echo"hi testing git"
+test reset
+new
